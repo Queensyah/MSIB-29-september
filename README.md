@@ -1,2 +1,2 @@
 # MSIB-29-september
-Self Learning 29 September 2022
+Self Learning 28 September 2022
